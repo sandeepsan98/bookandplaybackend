@@ -3,12 +3,13 @@
 # Book and Play 
 Hi This project was developed using HTML, CSS,JavaScript,Java ,MYSql,Servlet,JDBC and JSP
 ### Good Practices
-Writing TestCases
-Maintained Folder Structure
-Used Prepared Statement
-Both Frontend and backend validation
-Sending data using post method 
-Hashed the password in database
+- Writing TestCases
+- Maintained Folder Structure
+- Used Prepared Statement
+- Both Frontend and backend validation
+- Sending data using post method 
+- Hashed the password in the database
+
 
 Welcome to the **Book and Play** platform!
 
